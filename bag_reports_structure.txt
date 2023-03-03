@@ -1,0 +1,12 @@
+ID
+Title (Что?Где?Когда?)
+Severity
+Priority
+Precondition
+Environment	
+STR (Steps to restore)
+Expected result
+Actual Result
+Link
+Telegram @ник
+Comments
